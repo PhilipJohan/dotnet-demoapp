@@ -54,4 +54,4 @@ jobs:
           app-name: 'PhilipsFantasticWebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97402FDA73B94B7699FEBB493338C801 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7449C79F25EF4649B5DCC4CB9D0BECE3 }}
